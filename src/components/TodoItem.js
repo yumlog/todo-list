@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import "./TodoItem.css";
+import "./TodoItem.scss";
 
 class TodoItem extends Component {
   shouldComponentUpdate(nextProps, nextState) {
